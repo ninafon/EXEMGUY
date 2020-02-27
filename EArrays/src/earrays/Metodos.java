@@ -52,7 +52,7 @@ public class Metodos {
     public void ordenar(int[]lista){
         Arrays.sort(lista);
     }
-    
+   
     
     
     
